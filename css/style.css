@@ -6,3 +6,13 @@
 @import "_overall.css";
 
 /* components imports */
+
+h1 {
+	color: #a0a;
+	margin-bottom: 50px;
+}
+
+p {
+	color: green;
+	padding: 50px;
+}
