@@ -6,3 +6,7 @@
 @import "_overall.css";
 
 /* components imports */
+
+body {
+	background-color: #a0a;
+}
