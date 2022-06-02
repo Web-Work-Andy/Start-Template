@@ -8,11 +8,11 @@
 /* components imports */
 
 h1 {
-	color: #a0a;
-	margin-bottom: 50px;
+  color: #aa00aa;
+  margin-bottom: 50px;
 }
 
 p {
-	color: green;
-	padding: 50px;
+  color: #008000;
+  padding: 50px 10px;
 }
